@@ -1,0 +1,50 @@
+body{
+  font-family: inter UI;
+  background-color: #F5F5F5;
+}
+
+h1{
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+text-align: left;
+color: #12BE7E;
+}
+
+h5{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  width: 1000px;
+  text-align: left;
+  color: #9B9B9B;
+  font-size: 22px;
+}
+
+div{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+p{
+text-align: left;
+font-size: 40px;
+  color: 242424;
+
+}
+
+.mainparagraph{
+  font-size: 30px;
+  color: 242424;
+  line-height: 140%;
+}
+
+#Convelio{
+  color: #184EF3;
+}
+
+#link{
+  color: #184EF3;
+  font-size: 30px;
+}
