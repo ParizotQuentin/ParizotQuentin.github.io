@@ -1,6 +1,7 @@
 body{
   font-family: inter UI;
   background-color: #F5F5F5;
+
 }
 
 h1{
@@ -18,7 +19,7 @@ h5{
   width: 1000px;
   text-align: left;
   color: #9B9B9B;
-  font-size: 22px;
+  font-size: 23px;
 }
 
 div{
